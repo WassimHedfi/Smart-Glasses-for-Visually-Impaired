@@ -22,7 +22,7 @@ This project demonstrates the development of a smart glasses system designed to 
 ## Installation & Setup:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Smart-Glasses-for-Visually-Impaired.git
+   git clone https://github.com/WassimHedfi/Smart-Glasses-for-Visually-Impaired
    ```
 
 2. Install the required libraries:
